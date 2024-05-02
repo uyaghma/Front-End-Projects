@@ -1,3 +1,6 @@
 [submodule "RecipePage"]
 	path = RecipePage
 	url = https://github.com/uyaghma/RecipePage.git
+[submodule "SocialLinksProfile"]
+	path = SocialLinksProfile
+	url = https://github.com/uyaghma/SocialLinksProfile.git
