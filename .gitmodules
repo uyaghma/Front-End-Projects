@@ -1,0 +1,3 @@
+[submodule "RecipePage"]
+	path = RecipePage
+	url = https://github.com/uyaghma/RecipePage.git
