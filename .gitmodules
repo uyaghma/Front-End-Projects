@@ -4,3 +4,6 @@
 [submodule "SocialLinksProfile"]
 	path = SocialLinksProfile
 	url = https://github.com/uyaghma/SocialLinksProfile.git
+[submodule "BlogPreviewCard"]
+	path = BlogPreviewCard
+	url = https://github.com/uyaghma/BlogPreviewCard.git
